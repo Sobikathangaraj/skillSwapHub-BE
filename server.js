@@ -25,4 +25,3 @@ server.listen(port, () => {
 });
 
 
-//("mongodb+srv://sobika0505:Sobika04052005@sobika.ufmnkvg.mongodb.net/UserData")
